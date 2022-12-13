@@ -55,7 +55,7 @@ function generateREADME(data) {
   return `# ${data.label}
 
   ## Description
-  ${data.description}Description
+  ${data.description}
   
   ## Table of Content
 
