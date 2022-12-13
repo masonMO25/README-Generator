@@ -10,7 +10,7 @@ const questions = [
       {
         type: 'input',
         name: 'description',
-        message: 'Describe your project?',
+        message: 'Describe your application?',
       },
       {
         type: 'input',
@@ -46,7 +46,7 @@ const questions = [
       {
         type: 'input',
         name: 'email',
-        message: 'What is the name of your project?',
+        message: 'What is your email?',
       },
 ];
 
