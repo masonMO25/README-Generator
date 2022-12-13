@@ -73,7 +73,7 @@ function generateREADME(data) {
   ${data.usage}
   
   ## License
-  ${data.licesne}
+  ${data.license}
   
   ## Contributing Guidelines
   ${data.contributing}
